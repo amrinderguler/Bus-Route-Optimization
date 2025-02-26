@@ -330,15 +330,3 @@ export default function OptimizerPage() {
   )
 }
 
-export async function handler(req: NextApiRequest, res: NextApiResponse) {
-  if (req.method !== 'POST') {
-    return res.status(405).json({ error: 'Method Not Allowed' })
-  }
-
-  // Handle the file upload and optimization logic here
-  // For example, you can parse the form data and process the files
-
-  // Example response
-  res.status(200).json({ result: 'Optimization result data' })
-}
-
