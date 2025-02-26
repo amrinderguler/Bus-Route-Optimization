@@ -1,1 +1,10 @@
-Flask==3.0.3
+Flask
+pandas
+numpy
+folium
+requests
+geopy
+selenium
+webdriver-manager
+flask-cors
+gunicorn
