@@ -62,7 +62,7 @@ export default function OptimizerPage() {
 
       // Send the files to the Flask backend API
       // const response = await fetch("${process.env.NEXT_PUBLIC_API_BASE_URL}/api/optimize_routes", {
-      const response = await fetch("${process.env.NEXT_PUBLIC_API_BASE_URL}/api/optimize_routes", {
+      const response = await fetch("http://0.0.0.0:10000/api/optimize_routes", {
         method: "POST",
         body: formData,
       })
