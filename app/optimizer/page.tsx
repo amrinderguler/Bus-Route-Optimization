@@ -61,8 +61,8 @@ export default function OptimizerPage() {
       formData.append("studentFile", studentFile)
 
       // Send the files to the Flask backend API
-      // const response = await fetch("http://localhost:5000/api/optimize_routes", {
-      const response = await fetch("/api/optimize_routes", {
+      // const response = await fetch("${process.env.NEXT_PUBLIC_API_BASE_URL}/api/optimize_routes", {
+      const response = await fetch("${process.env.NEXT_PUBLIC_API_BASE_URL}/api/optimize_routes", {
         method: "POST",
         body: formData,
       })
@@ -86,7 +86,7 @@ export default function OptimizerPage() {
   const handleDownload = (busIndex: string, fileType: "csv_file" | "html_file" | "png_file", fileName: string) => {
     if (!result) return
 
-    const fileUrl = `http://localhost:5000/download/${result[busIndex][fileType]}`
+    const fileUrl = `${process.env.NEXT_PUBLIC_API_BASE_URL}/download/${result[busIndex][fileType]}`
     const link = document.createElement("a")
     link.href = fileUrl
     link.download = fileName
