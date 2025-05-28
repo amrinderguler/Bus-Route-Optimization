@@ -1,0 +1,318 @@
+Student ID,Name,Latitude,Longitude,Pickup Point
+1,Abhishek Meena,26.8759752,75.885319,Shubham Vihar
+2,Manasvi Joshi,26.8759752,75.885319,Jamdoli
+3,Shagun Mishra,26.8759752,75.885319,Jamdoli
+4,Bhumika Goyal,26.9181192,75.8488083,Galta Gate
+5,Bhavy,26.945963,75.850199,"Chungi,Aagra Road"
+6,Davash Dayma,26.945964,75.840107,Ramgarh Mod
+7,Aadil Masuri,26.945964,75.840107,Ramgarh Mod
+8,Yash Verma,26.945964,75.840107,Ramgarh Mod
+9,Aarushi Gupta,26.9388169,75.8412472,Dushera Kothi
+10,Chesta Khandelwal,26.9348527,75.8333957,Jorawar Singh Gate
+11,Prakhar Singhal,26.9348527,75.8333957,Jorawar Singh Gate
+12,Naman Sharma,26.9348527,75.8333957,Jorawar Singh Gate
+13,Himanshi Jain,26.931107,75.832343,Dudh Mandi
+14,Harshit Jain,26.9276757,75.8317009,Subhash Chouk
+15,Garvita Jain,26.9276757,75.8317009,Subhash Chouk
+16,Punit Sexsena,26.9298452,75.8281562,Chandi Ki Taksaal
+17,Swati Sharma,26.9081441,75.833263,Janta Colony Circle
+18,Manvi Gupta,26.90495,75.839284,Sethi Colony
+19,Daksh Jain,26.9030619,75.8368788,"Pink Square,Durga Mandir"
+20,Chavi Luthra,26.895456,75.837518,Mama Ki Hotel
+21,Jasmit Kaur,26.895456,75.837518,Mama Ki Hotel
+22,Sanvi Agarwal,26.895456,75.837518,Mama Ki Hotel
+23,Sumedha Sharma,26.8860065,75.8328411,"Monilek Mark,Jawhar nagar"
+24,Chavi Baradiya,26.89964,75.819434,Pani Ki Tanki
+25,Kunal Sain,26.89964,75.819434,Behind Moti Dungri
+26,Smirdhi Sharma,26.8983352,75.7513732,Govind Marg
+27,Kartik Maharwal,26.8983352,75.7513732,Govind Marg
+28,Prakhar Jain,26.8462294,75.8034731,Fortis
+29,Akshita Kumawat,26.838094,75.794073,"Surya Nagar,Taro Ki Koot"
+30,Yash Kumar Bawariya,26.895456,75.837518,Mama Ki Hotel
+31,Abhinav Tank,26.9494117,75.8381982,Ramgarh Mod
+32,Anjali Agarwal,26.970117,75.764882,"Jamunapuri,Murlipura"
+33,Himanshu Prajapat,27.0074088,75.7704334,"Harmada,Sikar Road"
+34,Adayan Gupta,26.9364408,75.7562708,Deep Hospital
+35,Chanchal Sharma,26.979223,75.768764,Shyam Mandir
+36,Lavya Bhati,26.9705103,75.7752912,Road No.8
+37,Siddarth,26.970079,75.757964,Mata Ji Mandir
+38,Monisha Sharma,26.9829172,75.7758366,"Road No.7,Murlipura"
+39,Garvit Saini,26.950855,75.771764,Dher Ke Balaji
+40,Lakshya Soni,26.960836,75.762728,"Path No.7 ,Murlipura"
+41,Ojaswi Sharma,26.9364408,75.7562708,Deep Hospital
+42,Sudanra Mishra,27.006354,75.770516,Anokha Gaanv
+43,Siddarthb Sharma,26.9488015,75.7763563,2 No.Road
+44,Kritika Sharma,27.06547,75.75108,Sikar Road
+45,Divya Kanwar,26.92911,75.749038,Jaswant Nagar
+46,Nimay Sharma,26.964971,75.725535,Vaidh Ji Ka Chauraya
+47,Aaditya Maathur,26.92289,75.746709,Khatipura
+48,Abhishek Teilor,26.9124336,75.7872709,Nenad Mod
+49,Piyush Sharma,26.970117,75.764882,"Jamunapuri,Murlipura"
+50,Bhumika Prajapat,27.06547,75.75108,Rajawas
+51,Ajay Choudhary,27.0034718,75.7703737,Jodla
+52,Eshaan Kanwat,26.9269229,75.7463238,Marudhar Hospital
+53,Esha Kanwat,26.9269229,75.7463238,Marudhar Hospital
+54,Honey Bud Gurjar,27.06547,75.75108,Rajawas
+55,Devanshu Sharma,26.92289,75.746709,Khatipura
+56,Ajay Agarwal,26.960836,75.762728,"Path No.7 ,Murlipura"
+57,Priyanshu Sharma,26.927941,75.747722,Jodhpur Sweets
+58,Garima Choudhary,26.9563734,75.7493269,Bad Peepali
+59,Aaditya Jangir,27.06547,75.75108,Rajawas
+60,Komal Sharma,26.913807,75.752898,Vaishali Nagar
+61,Harsh Mishra,26.94364,75.773298,Bhawani Niketan
+62,Avish Gupta,26.964971,75.725535,Vaidh Ji Ka Chauraya
+63,Bhumika Pareek,26.988477,75.772809,9 No. Sikar Road
+64,Gaurav Agarwal,26.950855,75.771764,Dher Ke Balaji
+65,Sumit Jangid,26.964971,75.725535,Vaidh Ji Ka Chauraya
+66,Yash Agarwal,26.979223,75.768764,Shyam Mandir
+67,Siddarth Gupta,26.9364408,75.7562708,Deep Hospital
+68,Sejal Sharma,26.92911,75.749038,Jaswant Nagar
+69,Mayank Agarwal,26.811696,75.833291,Pratap Nagar Chauraya
+70,Nakul Jangir,27.006354,75.770516,Anokha Gaanv
+71,Bhumika Bohra,26.9829172,75.7758366,"Road No.7,Murlipura"
+72,Lakshya Choudhary,26.996593,75.761791,Road No.14
+73,Charu Swami,27.006354,75.770516,Anokha Gaanv
+74,Eklavya Naruka,26.92911,75.749038,Jaswant Nagar
+75,Lakshita Apoorva,26.9687026,75.7533274,"PNB Bank,Benad"
+76,Nikhil Sharma,26.9687026,75.7533274,"PNB Bank,Benad"
+77,Garvit Bansal,26.989881,75.745674,Sitawalui Phatak
+78,Ronak Jangid,27.0144511,75.7037509,"Shyam Nagar,Benad"
+79,Viksat Mahrishi,27.0144511,75.7037509,"Shyam Nagar,Benad"
+80,Sunni Suiwal,27.0144511,75.7037509,"Shyam Nagar,Benad"
+81,Bhupesh Saini,26.984882,75.752989,Nadi Ka Phatak
+82,Avantika Sharma,26.984882,75.752989,Nadi Ka Phatak
+83,Darshil Saabu,26.973606,75.752405,Dadi Ka Phatak
+84,Yash Pandey,26.973606,75.752405,Dadi Ka Phatak
+85,Rohan Gorma,26.973827,75.772058,Murlipura
+86,Yashasvi Purohit,26.973827,75.772058,Murlipura
+87,Aayush Sharma,26.973827,75.772058,Murlipura
+88,Bhumi Verma,26.973827,75.772058,"Murlipura,Soni Ka Chauraya"
+89,Jamvi Kumawat,26.973827,75.772058,Murlipura
+90,Rahul Fhogat,26.973827,75.772058,Murlipura
+91,Mukul Prajapati,26.973827,75.772058,Murlipura
+92,Radhika Khandelwal,26.864633,75.6794585,DPS
+93,Shivam Dhamani,26.864633,75.6794585,DPS
+94,Garvit Soni,26.96628,75.783552,National Handloom
+95,Garvit Sain,26.9566218,75.7790748,Biyani College
+96,Krish Kumar Lakhera,26.9566218,75.7790748,Biyani College
+97,Vivek Kumar,26.9566218,75.7790748,Biyani College
+98,Rohan Meena,26.940836,75.798676,Agarwal Catters
+99,Parak Soni,26.938581,75.788156,Panipech
+100,Sakshi Sharma,26.9255566,75.7927867,Collectorate
+101,Siya Sharma,26.9255566,75.7927867,Collectorate
+102,Kanshika Karadiya,26.881148,75.782776,Kartarpura
+103,Charu Rawat,26.881148,75.782776,Kartarpura
+104,Anumeksh Jain,26.881148,75.782776,Kartarpura
+105,Aagmya ,26.864633,75.6794585,DPS
+106,Aaditya Banjara,26.9124336,75.7872709,Kalyani Nagar
+107,Aaditya Sharma,26.881046,75.782741,Mahesh Nagar
+108,Bhumika Gupta,26.881046,75.782741,Mahesh Nagar
+109,Akshat Goyal,26.881046,75.782741,Mahesh Nagar
+110,Ishan Singh Rawat,26.881046,75.782741,Mahesh Nagar
+111,Deshna Modi,26.881046,75.782741,Mahesh Nagar
+112,Kanishka Khuswaha,26.871393,75.78068,Arjun Nagar
+113,Mohit Kumar Meena,26.871393,75.78068,Arjun Nagar
+114,Samdhi Bhardwaj ,26.8627282,75.7847499,C.K Birla
+115,Siddhi Hudia,26.851545,75.786255,Maharani Farm
+116,Naitik Khandelwal,26.851545,75.786255,Maharani Farm
+117,Rajywardhan Singh,26.972444,75.710509,Niwaru
+118,Shivam Paarik,26.972444,75.710509,Niwaru
+119,Rudransh Vyash,26.956847,75.740387,Laxmi Nagar
+120,Hanus ,26.9597373,75.738675,Laxmi Nagar
+121,Lokesh Kumawat,26.882214,75.7818773,Brajmandal
+122,Ishan Bohra,26.9335868,75.7441446,Khirni Phatak
+123,Shivam Agarwal,26.9152651,75.7174364,Sirsi Puliya
+124,Snehasish Choudhary,26.9116187,75.7218325,Karni Palace
+125,Lakshita Nirmal,26.9116187,75.7218325,Karni Palace
+126,Devesh ,26.9049335,75.7234051,Gandhi Path
+127,Vishal Sharma,26.8952536,75.733741,Dhawas Puliya
+128,Vansh Tolani,26.8952536,75.733741,Dhawas Puliya
+129,Ishita Jain,26.8952536,75.733741,Dhawas Puliya
+130,Nitin Agarwal,26.8952536,75.733741,Dhawas Puliya
+131,Pragyita,26.8952536,75.733741,Dhawas Puliya
+132,Rishabh Rathore,26.941308,75.731876,200 Ft.
+133,Sooujal Koolwal,26.941308,75.731876,200 Ft.
+134,Aabha Tiwari,26.943625,75.747111,Aadrash School.New Sanganer Road
+135,Rajveer Singh,26.8578664,75.757458,"Dhanwantri Hospital,New Sanganer Road"
+136,Akshat Khandal,26.8811974,75.729724,Niwaru Army Area
+137,Lakshya Yadav,26.8811974,75.729724,Niwaru Army Area
+138,Hitesh Sharma,26.9652388,75.7246783,Niwaru Road
+139,Ridham Sharma,26.9652388,75.7246783,Niwaru Road
+140,Harsvardhan,26.9652388,75.7246783,Niwaru Road
+141,Siddanth Gupta,26.9652388,75.7246783,"Laxmi Nagar,Niwaru Road"
+142,Mohit Sahu,26.9652388,75.7246783,"Laxmi Nagar,Niwaru Road"
+143,Lakshya Kalyan,26.9549003,75.7206678,Niwaru Bypass
+144,Amit Sain,26.9116187,75.7218325,Karni Palace
+145,Rishabh Kumawat,26.8952536,75.733741,Dhawas Puliya
+146,Yashika,26.9607949,75.7322223,"Pradhan Sweets,Niwaru Road"
+147,Laksh Agarwal ,26.8487356,75.7637224,New Sanganer Road
+148,Manan Vijay,26.8487356,75.7637224,New Sanganer Road
+149,Shamkhaya,26.8460417,75.7647326,"Vijay Path,New Sanganer Road"
+150,Vakhya,26.8460417,75.7647326,"Vijay Path,New Sanganer Road"
+151,Kavya Sharma,26.941251,75.731854,"Shiv Vihar,200 Ft."
+152,Disha,26.882334,75.724241,Gajsinghpura
+153,Devansh,26.878488,75.716671,Kamla Nehru Puliya
+154,Manvendra ,26.87709,75.714075,Narayan Vihar
+155,Rudraksh ,26.857195,75.724095,Anjali Properties
+156,Shreyansh,26.8616084,75.7323955,Bharat Mata Circle
+157,Pooja Saini,26.880092,75.743104,MRF Company
+158,Manthan ,26.911683,75.729698,Andhra Bank
+159,Poorvi Saini,26.9124336,75.7872709,Neemdi Balaji
+160,Drashti Bindal,26.879287,75.746371,UDB Building
+161,Bhavya Nag,26.9786784,75.7599887,Singhaniya Circle
+162,Gaurang ,26.8310934,75.7496609,Iskon Temple
+163,Mananshi ,26.8230342,75.7510464,Kesar Chauraya
+164,Anhinav Saini,26.8230342,75.7510464,Kesar Chauraya
+165,Priyanka ,26.8286393,75.7603987,Iskon Temple Road
+166,Gagan ,26.851354,75.762539,Sumer Nagar
+167,Arpan ,26.851354,75.762539,Sumer Nagar
+168,Laukik ,26.8295571,75.7733219,Mansarovar RIICO Kanta
+169,Nimanshi,26.828837,75.75348,"Hanuman Ji Mandir,Iskon Temple Road"
+170,Anisha Chawla,26.9440219,75.7889888,RPA
+171,Aman Kumar,26.9440219,75.7889888,RPA
+172,Piyush Gaur,26.912639,75.8344511,Agarsen
+173,Soumya Suiwal,26.912639,75.8344511,Agarsen
+174,Vanshika Jain,26.96157,75.783022,Vidhya Dhar Nagar
+175,Pari Agarwal,26.96157,75.783022,Vidhya Dhar Nagar
+176,Pratiksha Agarwal,26.96157,75.783022,Vidhya Dhar Nagar
+177,Krish Modi,26.9531188,75.8003697,Lankapuri Mod
+178,Purvansh Natani,26.9124336,75.7872709,Tiwari Bhawan
+179,Moh. Hassan,26.9446871,75.7980393,Kanwatiya 
+180,Devansh Sharma,26.8072078,75.8362368,Pani Ki Tanki
+181,Harshit Saini,26.940856,75.798707,Agarwal Catters
+182,Akshit Agarwal,26.9415161,75.8006819,Yadav Juice
+183,Shivam Gupta,26.9415161,75.8006819,Yadav Juice
+184,Aditi Koolwal,26.935794,75.7936565,Dudh Mandi
+185,Ayaan Ahmad,26.930759,75.802306,Power House
+186,Divyata Mohnani,26.930759,75.802306,Power House
+187,Karan Singh Rathore,26.926496,75.807665,Chandpole
+188,Moh. Saahid,26.922217,75.805031,NBC
+189,Anjali Mohanti,26.922217,75.805031,NBC
+190,Tanvi Katariya,26.9084392,75.776653,4. No. Dispensary
+191,Yash Jangid,26.9084392,75.776653,4. No. Dispensary
+192,Sanskriti Sharma,26.909609,75.781646,Civil Lines Metro
+193,Anjali Sharma,26.901446,75.783852,Hawa Sadak
+194,Adhveta Goyal,26.901446,75.783852,Hawa Sadak
+195,Swastik Vajpayi,26.9124336,75.7872709,Yadav Petrol Pump
+196,Akshita Verma,26.9124336,75.7872709,Pillar No.120
+197,Krishna Nandwana,26.8962209,75.7702971,Shyam Nagar Metro
+198,Manvi Yadav,26.8941977,75.7696258,Lazeez
+199,Shrinidhi,26.9137259,75.7460108,Sanjeevani
+200,Teena Dahiya,26.9137259,75.7460108,Sanjeevani
+201,Labhya Bhardwaj,26.9137259,75.7460108,Sanjeevani
+202,Vansh Chandel,26.9137259,75.7460108,Sanjeevani
+203,Yatarath Goyal,26.895961,75.770608,Poiller No.69
+204,Aakruti Pareek,26.895961,75.770608,Poiller No.69
+205,Tinkal Kapil,26.875049,75.766487,Gurjar Ki Thadi
+206,Vedika Sharma,26.875049,75.766487,Gurjar Ki Thadi
+207,Manjeet Singh,26.873553,75.776596,Narayan Niwas
+208,Ananya Agarwal,26.873553,75.776596,Riddhi Siddhi
+209,Aviral Sharma,26.873553,75.776596,Riddhi Siddhi
+210,Yash Gupta,26.868791,75.78393,Triveni Puliya
+211,Lakshya Sharma,26.86364,75.7937864,Bhandari Hospital
+212,Shashank Sain,26.86364,75.7937864,Bhandari Hospital
+213,Rohit Devansh,26.8558113,75.7866626,Durgapura Railway Station
+214,Kanshik Dussad,26.9196187,75.8256378,"LMB,Johari Bajar"
+215,Sara Vaishith,26.9196187,75.8256378,"LMB,Johari Bajar"
+216,Ritik Agarwal,26.924546,75.818567,Choti Chopad
+217,Ronak Garg,26.924546,75.818567,Choti Chopad
+218,Chitranshi Agarwal,26.922261,75.8208923,Chauda Rasta
+219,Hemangini Pahiya ,26.922261,75.8208923,Chauda Rasta
+220,Purvi Mathur,26.906234,75.8163148,SMS Hospital
+221,Rohit Rahi,26.898992,75.811777,Narayan Singh Circle
+222,Athrav ,26.8902048,75.8096552,Janta Store
+223,Lakshya Gupta,26.8902048,75.8096552,Janta Store
+224,Diya Goyal,26.887885,75.802909,Gandhi Nagar Mod
+225,Priyam Jain,26.880672,75.799619,Tonk Phatak
+226,Sankalp Pathak,26.880672,75.799619,HMB Road
+227,Prachi Bhagoriya,26.8572394,75.815422,Malviya Nagar(Calgiri)
+228,Dakshita Sharma,26.854539,75.824471,Malviya Nagar
+229,Anupma,26.854539,75.824471,Malviya Nagar Sector-3
+230,Paridhi Mehta,26.841492,75.832109,Jagatpura(Model Town)
+231,Deepak Dhakad,26.8176736,75.8617171,Jagatpura Puliya
+232,Ankush,26.8363101,75.8338763,Jagatpura Railway Colony
+233,Tishika Gupta,26.8183261,75.818259,Aabkari Thana
+234,Kailash Verma,26.807019,75.822013,Panya Dhay Circle
+235,Akshita Goyal,26.807019,75.822013,Panya Dhay Circle
+236,Disha Jain,26.8926,75.744055,Nirman Nagar
+237,Aaditya Singh,26.9056966,75.7386902,Global Heart Hospital
+238,Baba Riyasar Himmat Bhai,26.910786,75.753075,Vaishali Nagar
+239,Yash Tank,26.9020408,75.7357806,SBI Bank Chitrkoot
+240,Arnav Kumawat,26.902575,75.71465,Lalarpura
+241,Yash Gupta,26.967034,75.655466,Machwa
+242,Ashish Diwakar,26.902575,75.71465,Lalarpura
+243,Shagun Jangid,26.8926,75.744055,Nirman Nagar
+244,Garima Sharma,26.9238417,75.7154204,21 No. Bus Stand
+245,Astha Khandelwal,26.924952,75.696291,Sirsi Bagh
+246,Ridham Sha5rma,26.9013178,75.7319879,Chitrkoot Sector-4
+247,Sparsh,26.902575,75.71465,Nirman Nagar
+248,Ishaan,26.924952,75.696291,Sirsi Bagh
+249,Rakesh Jaganiya,26.9242861,75.7073865,"Shekhawat Colony,Sirsi Road"
+250,Akshay Singh,26.924952,75.696291,Sirsi Bagh
+251,Harshit Jain,26.8455117,75.7704607,"Thadi Market,Madhyam Marg"
+252,Srishti Khuswaha,26.9139071,75.7435994,Goutam Marg
+253,Amit Khandal,26.9056966,75.7386902,Global Heart Hospital
+254,Dushyant Soni,26.9476841,75.6696327,"Kishorpura,Hathoj"
+255,Tushar Kumar Poddar,26.964015,75.662127,Royal City
+256,Aaditya Choudhary,26.924952,75.696291,Sirsi Bagh
+257,Yashika,26.964015,75.662127,Royal City
+258,Aaditya Singh Jakar,26.9230833,75.6905785,Sirsi Road
+259,Maanniya  Agarwal,26.905224,75.745247,Kabra Restauraunt
+260,Ishita Shekhawat,26.924952,75.696291,Sirsi Bagh
+261,Mohit Tanwar,26.920966,75.730525,Panchyawala
+262,Himanshi Badoriya,26.9022513,75.7006305,Jaipur Bagh
+263,Shreya Srivastava,26.9006708,75.7388266,AU Bank Chitrakoot
+264,Khushi Manihar,26.891615,75.742935,DCM
+265,Kasteej Mathur,26.870645,75.696129,Balaji Hospital
+266,Danesh Khoda,26.923983,75.711229,Meenawala
+267,Priyanshi Soni,26.89284,75.769607,Shani Mandir
+268,Laksh Agarwal,26.89284,75.769607,Shani Mandir
+269,Devansh Sharma,26.8785222,75.7144359,Kamla Nehru Nagar
+270,Kavya Gupta,26.8472815,75.7725037,Ramtirth Marg
+271,Akshita Jain,26.8472815,75.7725037,Ramtirth Marg
+272,Shwati Growr,26.848315,75.775336,Manglam Marg
+273,Susmita Rai,26.9124336,75.7872709,SFS
+274,Virat Verma,26.871616,75.69896,Bhankrota
+275,Ram Kumar Jha,26.871616,75.69896,Bhankrota
+276,Anchal,26.871616,75.69896,Bhankrota
+277,Dheuv Mudgal,26.871616,75.69896,Bhankrota
+278,Pranay Bhandari,26.871616,75.69896,Bhankrota
+279,Komal Choudhary,26.953273,75.698416,Hathoj
+280,Kritika Kumawat,26.950378,75.708007,Elahabaad Bank
+281,Akhilesh Kumar,26.950378,75.708007,Elahabaad Bank
+282,Isha Kumawat,26.953273,75.698416,Manglam City
+283,Kartik Rao,26.949046,75.714454,Raj Motors
+284,Himanshu Prajapati,26.950378,75.708007,Govindpura
+285,Ajay Kumawat,26.950378,75.708007,Govindpura
+286,Surya Pratap Singh Rathore,26.950378,75.708007,Govindpura
+287,Khushi Pareek,26.950378,75.708007,Govindpura
+288,Bhanu Pratap,26.950378,75.708007,Govindam Tower(D-Mart)
+289,Aditi Naruka,26.950378,75.708007,D-Mart
+290,Jotiraditya Rathore,26.7979077,75.7719591,9-Dukaan
+291,Vaidik Sharma,26.7979077,75.7719591,9-Dukaan
+292,Aaditya Baagda,26.949886,75.7212467,Rawan Gate
+293,Tanisha Agarwal,26.949886,75.7212467,Rawan Gate
+294,Ishita,26.949886,75.7212467,Rawan Gate
+295,Kanshik Pandey,26.9458911,75.7360795,Joshi Marg
+296,Ishika,26.94355,75.748658,"Aadarsh School,Jhotwara"
+297,Khushi Sahu,26.94355,75.748658,"Aadarsh School,Jhotwara"
+298,Keshav Sahu,26.94355,75.748658,"Aadarsh School,Jhotwara"
+299,Aaditya Maane,26.94355,75.748658,"Aadarsh School,Jhotwara"
+300,Monika Saini,26.94355,75.748658,"Aadarsh School,Jhotwara"
+301,Etiksha Agarwal,26.94355,75.748658,Maharana Pratap
+302,Nandini Bohra,26.94355,75.748658,"Aadarsh School,Jhotwara"
+303,Tanishq Soni,26.94355,75.748658,"Aadarsh School,Jhotwara"
+304,Tanuj Jangir,26.944975,75.739953,Ganesh Mandir
+305,Palak Gupta,26.944975,75.739953,Ganesh Mandir
+306,Himanshi,26.9114624,75.7292667,Karni Puliya
+307,Sneha Rathore,26.9114624,75.7292667,Karni Puliya
+308,Virendra Singh Rathore,26.917237,75.730168,Sirsi Road
+309,Bhanu Priya,26.9330152,75.7384214,Safed Mandir
+310,Taksh Pareek,26.9142102,75.7401647,Nursury Circle
+311,Unnati Tinkar,26.9142102,75.7401647,Nursury Circle
+312,Vaibhav,26.913012,75.739827,SBI Chauraya
+313,Siddhika Gupta,26.9142102,75.7401647,Nursury Circle
+314,Arv ,26.876472,75.7585377,"Kaveri Path,Shipra Path Road"
+315,Aayush Singh,26.963766,75.662534,Royal City
+316,Priyanshu ,26.95968,75.671123,9-Dukaan
+317,Vishnu Kumar Yadav,26.9142102,75.7401647,Nursury Circle
