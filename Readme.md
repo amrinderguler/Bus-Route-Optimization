@@ -11,20 +11,6 @@ A full-stack application for optimizing school bus routes using uploaded CSV fil
 - Responsive, modern UI with Tailwind CSS
 
 ## Folder Structure
-```markdown
-# Bus Route Optimization
-
-A full-stack application for optimizing school bus routes using uploaded CSV files for buses and students. The project features a Next.js/React frontend and a Python Flask backend.
-
-## Features
-
-- Upload bus and student CSV files
-- Server-side route optimization (mock/demo or real algorithm)
-- Download optimized route CSVs for each bus
-- Download a summary CSV for all buses
-- Responsive, modern UI with Tailwind CSS
-
-## Folder Structure
 
 ```
 Bus_Route_optimization/
