@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+folium
+requests
+geopy
+selenium
+webdriver-manager
+flask-cors
+gunicorn
